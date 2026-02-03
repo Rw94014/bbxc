@@ -1,5 +1,3 @@
-pycryptodome
-pypiwin32
 flask
 cryptography
 gunicorn
